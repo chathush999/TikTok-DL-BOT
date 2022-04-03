@@ -43,5 +43,5 @@
 [🔥 SL Developers </> 🇱🇰](https://t.me/SL_Developers)<br>
 [🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
 
-## deploy to heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below! 
+## Deploy to Heroku
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below!
