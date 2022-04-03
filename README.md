@@ -44,3 +44,4 @@
 [🔥 Single Developers </> ](https://t.me/SingleDevelopers) Corporation ©️
 
 ## deploy to heroku
+Get the [Necessary Variables](#Necessary-Variables) and then click the button below! 
